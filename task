@@ -1,0 +1,9 @@
+"Design a banking system that can perceive a commission for all its users.
+Each user has a debit account and optionally a credit account.
+Deposits, withdraws and balance checks can be performed on this accounts.
+The debit account cannot have a negative balance and the credit account cannot exceed a credit limit.
+The bank will try to take the commission from the debit account first and then from the credit one.
+If there are insufficient funds, a partial commission is taken.
+Write a Java program for the banking system that prints a report on the console with the amount collected
+by the bank and the commission value from all the users together with the balance of their accounts.
+You can hard code the input data in the application. You can use integer values. "
